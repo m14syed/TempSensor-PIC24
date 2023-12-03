@@ -8,3 +8,6 @@ readings over a -40°C to +125°C range. The sensor outputs an analog voltage th
 proportional to the ambient temperature. Therefore, reading analog inputs is an important task
 for microcontrollers. In this project, the temperature sensor TMP36 is interfaced
 to PIC24 MCU using Proteus 8.11 VSM viewer.
+
+- Used MPLABX IDE to compile the C code used to program the Microcontroller
+- Used Proteus VSM 8.11 to implement a virtual PIC24 Microcontroller with added components 
